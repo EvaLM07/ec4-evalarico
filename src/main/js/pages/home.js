@@ -21,7 +21,7 @@ class PageHome extends React.Component {
 	render() {
 		return (
 			<>
-                <h1>EF - Eva Larico</h1>
+                <h1>EF - Eva Larico Morocco</h1>
 
 				<div style={{"width": "100%","display": "flex"}} >
 
